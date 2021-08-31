@@ -1,0 +1,1 @@
+# addemoji.cmd
