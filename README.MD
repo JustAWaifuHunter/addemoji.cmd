@@ -11,7 +11,7 @@
 
 [discord.js(npm i discord.js)](https://www.npmjs.com/package/discord.js?source=post_page-----7b5fe27cb6fa----------------------)
 
-[twemoji-parser(nom i twemoji-parser)](https://www.npmjs.com/package/twemoji-parser)
+[twemoji-parser(npm i twemoji-parser)](https://www.npmjs.com/package/twemoji-parser)
 
 
 ## Importante
