@@ -5,7 +5,7 @@
 
 
 
--Como funciona? Ao execultar o comando o bot pegará o emoji dito pelo -user(com nitro você pode usar emojis de outros serves)
+-Como funciona? Ao execultar o comando o bot pegará o emoji dito pelo -user(com nitro você pode usar emojis de outros serves) e adiciona no server que foi ultilizado o comando.
 
 ## Modulos necessários
 
