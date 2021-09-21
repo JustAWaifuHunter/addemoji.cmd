@@ -1,25 +1,20 @@
-# Olá tudo bem?
+## 😋 Comando AddEmoji Discord.js v13
+Criado por Pani Kaz#8893, Adaptado por lrd#6716
 
 
--Hoje voltei com um novo comando o "addemoji"
+### 📦 Dependências
+discord.js v13: `npm install discord.js`
+
+twemoji-parser: `npm install twemoji-parser` 
 
 
+### ⚠ Importante
+- Não é obrigatorio dar creditos!
 
--Como funciona? Ao execultar o comando o bot pegará o emoji dito pelo -user(com nitro você pode usar emojis de outros serves) e adiciona no server que foi ultilizado o comando.
+- Mudar os emojis para não dar erro!
 
-## Modulos necessários
+- Não falar que é o criador do código
 
-[discord.js(npm i discord.js)](https://www.npmjs.com/package/discord.js?source=post_page-----7b5fe27cb6fa----------------------)
+- Lembre de instalar todas as dependências
 
-[twemoji-parser(npm i twemoji-parser)](https://www.npmjs.com/package/twemoji-parser)
-
-
-## Importante
-
--Não é obrigatorio dar creditos!
-
--Mudar os emojis para não dar erro!
-
--Não falar que é o criador do cod
-
--Lembre de instalar as Dependências
+- Lembre de mudar o código conforme a sua handler de comandos
